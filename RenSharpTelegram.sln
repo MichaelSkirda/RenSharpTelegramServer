@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RenSharpTelegram", "RenSharpTelegram\RenSharpTelegram.csproj", "{E0042B87-05CD-4FDF-805C-39ED38F5FD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{DF330EE3-CC5A-4AC9-A37D-405D44C42EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{9DE55F83-C294-4CBE-9C14-095E4776338F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0042B87-05CD-4FDF-805C-39ED38F5FD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0042B87-05CD-4FDF-805C-39ED38F5FD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0042B87-05CD-4FDF-805C-39ED38F5FD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0042B87-05CD-4FDF-805C-39ED38F5FD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF330EE3-CC5A-4AC9-A37D-405D44C42EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF330EE3-CC5A-4AC9-A37D-405D44C42EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF330EE3-CC5A-4AC9-A37D-405D44C42EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF330EE3-CC5A-4AC9-A37D-405D44C42EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE55F83-C294-4CBE-9C14-095E4776338F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE55F83-C294-4CBE-9C14-095E4776338F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE55F83-C294-4CBE-9C14-095E4776338F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE55F83-C294-4CBE-9C14-095E4776338F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8A21383-7D14-465B-B03E-24BA57637238}
+	EndGlobalSection
+EndGlobal

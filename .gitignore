@@ -1,0 +1,12 @@
+*.bin
+*.dll
+/.vs
+
+/BLL/obj
+/BLL/bin
+
+/DAL/obj
+/DAL/bin
+
+/RenSharpTelegram/obj
+/RenSharpTelegram/bin
